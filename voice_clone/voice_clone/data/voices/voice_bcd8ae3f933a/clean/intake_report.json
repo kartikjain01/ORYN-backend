@@ -1,0 +1,33 @@
+{
+  "inputs": {
+    "clean_stage1_wav": "/Users/kartik/Desktop/Ai_voicegenerater/Ai_voicegenerater/backend/voice_clone/voice_clone/data/voices/voice_bcd8ae3f933a/clean/clean_stage1.wav",
+    "segments_dir": "/Users/kartik/Desktop/Ai_voicegenerater/Ai_voicegenerater/backend/voice_clone/voice_clone/data/voices/voice_bcd8ae3f933a/clean/segments",
+    "reference_clean_wav": "/Users/kartik/Desktop/Ai_voicegenerater/Ai_voicegenerater/backend/voice_clone/voice_clone/data/voices/voice_bcd8ae3f933a/clean/reference_clean.wav"
+  },
+  "audio": {
+    "sample_rate": 24000,
+    "duration_s": 14.88,
+    "clipping_percent": 0.0,
+    "rough_snr_db": 32.76088384936456
+  },
+  "vad": {
+    "speech_ratio": 0.8676075268817203,
+    "speech_seconds": 12.909999999999998,
+    "num_segments": 7,
+    "reference_duration_s": 12.909958333333334
+  },
+  "thresholds": {
+    "clip_threshold": 0.999,
+    "min_duration_s": 8.0,
+    "max_duration_s": 1200.0,
+    "min_speech_ratio": 0.35,
+    "min_snr_db": 10.0
+  },
+  "checks": {
+    "duration_ok": true,
+    "clipping_ok": true,
+    "speech_ratio_ok": true,
+    "snr_ok": true
+  },
+  "overall_ok": true
+}

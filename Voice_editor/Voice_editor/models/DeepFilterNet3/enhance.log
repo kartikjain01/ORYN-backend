@@ -1,0 +1,378 @@
+2026-02-12 18:13:07 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 18:13:07 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 18:13:07 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 18:13:07 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 18:13:07 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 18:13:07 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 18:13:07 | INFO     | DF | Running on device cpu
+2026-02-12 18:13:07 | INFO     | DF | Model loaded
+2026-02-12 18:13:52 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 18:13:52 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 18:13:52 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 18:13:52 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 18:13:52 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 18:13:52 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 18:13:52 | INFO     | DF | Running on device cpu
+2026-02-12 18:13:52 | INFO     | DF | Model loaded
+2026-02-12 18:15:06 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 18:15:06 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 18:15:06 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 18:15:06 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 18:15:06 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 18:15:06 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 18:15:06 | INFO     | DF | Running on device cpu
+2026-02-12 18:15:06 | INFO     | DF | Model loaded
+2026-02-12 18:17:04 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 18:17:04 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 18:17:04 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 18:17:04 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 18:17:04 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 18:17:04 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 18:17:04 | INFO     | DF | Running on device cpu
+2026-02-12 18:17:04 | INFO     | DF | Model loaded
+2026-02-12 18:28:30 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 18:28:30 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 18:28:30 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 18:28:30 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 18:28:30 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 18:28:30 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 18:28:30 | INFO     | DF | Running on device cpu
+2026-02-12 18:28:30 | INFO     | DF | Model loaded
+2026-02-12 22:03:04 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 22:03:04 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 22:03:04 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 22:03:04 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 22:03:04 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 22:03:04 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 22:03:04 | INFO     | DF | Running on device cpu
+2026-02-12 22:03:04 | INFO     | DF | Model loaded
+2026-02-12 22:11:12 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 22:11:12 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 22:11:12 | INFO     | DF | Git commit: d375b2d, branch: main
+2026-02-12 22:11:12 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 22:11:12 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 22:11:13 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 22:11:13 | INFO     | DF | Running on device cpu
+2026-02-12 22:11:13 | INFO     | DF | Model loaded
+2026-02-12 23:31:47 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 23:31:47 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 23:31:47 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 23:31:47 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 23:31:47 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 23:31:48 | INFO     | DF | Running on device cpu
+2026-02-12 23:31:48 | INFO     | DF | Model loaded
+2026-02-12 23:33:12 | INFO     | DF | Running on torch 2.2.2
+2026-02-12 23:33:12 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-12 23:33:12 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-12 23:33:12 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-12 23:33:12 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-12 23:33:12 | INFO     | DF | Running on device cpu
+2026-02-12 23:33:12 | INFO     | DF | Model loaded
+2026-02-18 00:03:57 | INFO     | DF | Running on torch 2.2.2
+2026-02-18 00:03:57 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-18 00:03:57 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-18 00:03:57 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-18 00:03:57 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-18 00:03:57 | INFO     | DF | Running on device cpu
+2026-02-18 00:03:57 | INFO     | DF | Model loaded
+2026-02-18 00:04:45 | INFO     | DF | Running on torch 2.2.2
+2026-02-18 00:04:45 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-18 00:04:45 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-18 00:04:45 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-18 00:04:46 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-18 00:04:46 | INFO     | DF | Running on device cpu
+2026-02-18 00:04:46 | INFO     | DF | Model loaded
+2026-02-18 12:12:41 | INFO     | DF | Running on torch 2.2.2
+2026-02-18 12:12:41 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-18 12:12:41 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-18 12:12:41 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-18 12:12:41 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-18 12:12:41 | INFO     | DF | Running on device cpu
+2026-02-18 12:12:41 | INFO     | DF | Model loaded
+2026-02-18 12:21:21 | INFO     | DF | Running on torch 2.2.2
+2026-02-18 12:21:21 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-18 12:21:21 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-18 12:21:21 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-18 12:21:21 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-18 12:21:21 | INFO     | DF | Running on device cpu
+2026-02-18 12:21:21 | INFO     | DF | Model loaded
+2026-02-18 12:29:00 | INFO     | DF | Running on torch 2.2.2
+2026-02-18 12:29:00 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-18 12:29:00 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-18 12:29:00 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-18 12:29:00 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-18 12:29:00 | INFO     | DF | Running on device cpu
+2026-02-18 12:29:00 | INFO     | DF | Model loaded
+2026-02-18 17:12:23 | INFO     | DF | Running on torch 2.2.2
+2026-02-18 17:12:23 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-18 17:12:23 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-18 17:12:23 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-18 17:12:23 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-18 17:12:23 | INFO     | DF | Running on device cpu
+2026-02-18 17:12:23 | INFO     | DF | Model loaded
+2026-02-21 16:39:06 | INFO     | DF | Running on torch 2.2.2
+2026-02-21 16:39:06 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-21 16:39:06 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-21 16:39:06 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-21 16:39:07 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-21 16:39:07 | INFO     | DF | Running on device cpu
+2026-02-21 16:39:07 | INFO     | DF | Model loaded
+2026-02-21 16:42:34 | INFO     | DF | Running on torch 2.2.2
+2026-02-21 16:42:34 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-21 16:42:34 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-21 16:42:34 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-21 16:42:34 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-21 16:42:34 | INFO     | DF | Running on device cpu
+2026-02-21 16:42:34 | INFO     | DF | Model loaded
+2026-02-21 22:37:01 | INFO     | DF | Running on torch 2.2.2
+2026-02-21 22:37:01 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-21 22:37:02 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-21 22:37:02 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-21 22:37:02 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-21 22:37:02 | INFO     | DF | Running on device cpu
+2026-02-21 22:37:02 | INFO     | DF | Model loaded
+2026-02-22 00:20:25 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 00:20:25 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 00:20:25 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 00:20:25 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 00:20:25 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 00:20:25 | INFO     | DF | Running on device cpu
+2026-02-22 00:20:25 | INFO     | DF | Model loaded
+2026-02-22 00:40:35 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 00:40:35 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 00:40:35 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 00:40:35 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 00:40:35 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 00:40:35 | INFO     | DF | Running on device cpu
+2026-02-22 00:40:35 | INFO     | DF | Model loaded
+2026-02-22 16:52:18 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 16:52:18 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 16:52:18 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 16:52:18 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 16:52:18 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 16:52:18 | INFO     | DF | Running on device cpu
+2026-02-22 16:52:18 | INFO     | DF | Model loaded
+2026-02-22 17:07:48 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 17:07:48 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 17:07:48 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 17:07:48 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 17:07:48 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 17:07:48 | INFO     | DF | Running on device cpu
+2026-02-22 17:07:48 | INFO     | DF | Model loaded
+2026-02-22 17:22:18 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 17:22:18 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 17:22:18 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 17:22:18 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 17:22:18 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 17:22:18 | INFO     | DF | Running on device cpu
+2026-02-22 17:22:18 | INFO     | DF | Model loaded
+2026-02-22 20:22:55 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 20:22:55 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 20:22:56 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 20:22:56 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 20:22:56 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 20:22:56 | INFO     | DF | Running on device cpu
+2026-02-22 20:22:56 | INFO     | DF | Model loaded
+2026-02-22 20:49:52 | INFO     | DF | Running on torch 2.2.2
+2026-02-22 20:49:52 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-22 20:49:52 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-22 20:49:52 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-22 20:49:52 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-22 20:49:52 | INFO     | DF | Running on device cpu
+2026-02-22 20:49:52 | INFO     | DF | Model loaded
+2026-02-23 22:54:31 | INFO     | DF | Running on torch 2.2.2
+2026-02-23 22:54:31 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-23 22:54:31 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-23 22:54:31 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-23 22:54:31 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-23 22:54:31 | INFO     | DF | Running on device cpu
+2026-02-23 22:54:31 | INFO     | DF | Model loaded
+2026-02-23 23:03:19 | INFO     | DF | Running on torch 2.2.2
+2026-02-23 23:03:19 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-23 23:03:19 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-23 23:03:19 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-23 23:03:19 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-23 23:03:19 | INFO     | DF | Running on device cpu
+2026-02-23 23:03:19 | INFO     | DF | Model loaded
+2026-02-23 23:20:44 | INFO     | DF | Running on torch 2.2.2
+2026-02-23 23:20:44 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-23 23:20:44 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-23 23:20:44 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-23 23:20:44 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-23 23:20:44 | INFO     | DF | Running on device cpu
+2026-02-23 23:20:44 | INFO     | DF | Model loaded
+2026-02-23 23:23:04 | INFO     | DF | Running on torch 2.2.2
+2026-02-23 23:23:04 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-02-23 23:23:04 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-02-23 23:23:04 | INFO     | DF | Initializing model `deepfilternet3`
+2026-02-23 23:23:04 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-02-23 23:23:04 | INFO     | DF | Running on device cpu
+2026-02-23 23:23:04 | INFO     | DF | Model loaded
+2026-03-03 23:40:08 | INFO     | DF | Running on torch 2.2.2
+2026-03-03 23:40:08 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-03 23:40:08 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-03 23:40:08 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-03 23:40:08 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-03 23:40:08 | INFO     | DF | Running on device cpu
+2026-03-03 23:40:08 | INFO     | DF | Model loaded
+2026-03-05 15:18:08 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 15:18:08 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 15:18:08 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 15:18:08 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 15:18:08 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 15:18:08 | INFO     | DF | Running on device cpu
+2026-03-05 15:18:08 | INFO     | DF | Model loaded
+2026-03-05 15:38:11 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 15:38:11 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 15:38:11 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 15:38:11 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 15:38:11 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 15:38:11 | INFO     | DF | Running on device cpu
+2026-03-05 15:38:11 | INFO     | DF | Model loaded
+2026-03-05 15:49:20 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 15:49:20 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 15:49:21 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 15:49:21 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 15:49:21 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 15:49:21 | INFO     | DF | Running on device cpu
+2026-03-05 15:49:21 | INFO     | DF | Model loaded
+2026-03-05 15:58:53 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 15:58:53 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 15:58:53 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 15:58:53 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 15:58:53 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 15:58:53 | INFO     | DF | Running on device cpu
+2026-03-05 15:58:53 | INFO     | DF | Model loaded
+2026-03-05 16:07:31 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 16:07:31 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 16:07:31 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 16:07:31 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 16:07:31 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 16:07:31 | INFO     | DF | Running on device cpu
+2026-03-05 16:07:31 | INFO     | DF | Model loaded
+2026-03-05 16:23:51 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 16:23:51 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 16:23:51 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 16:23:51 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 16:23:51 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 16:23:51 | INFO     | DF | Running on device cpu
+2026-03-05 16:23:51 | INFO     | DF | Model loaded
+2026-03-05 16:32:05 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 16:32:05 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 16:32:05 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 16:32:05 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 16:32:05 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 16:32:05 | INFO     | DF | Running on device cpu
+2026-03-05 16:32:05 | INFO     | DF | Model loaded
+2026-03-05 23:47:54 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 23:47:54 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 23:47:55 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 23:47:55 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 23:47:55 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 23:47:55 | INFO     | DF | Running on device cpu
+2026-03-05 23:47:55 | INFO     | DF | Model loaded
+2026-03-05 23:56:13 | INFO     | DF | Running on torch 2.2.2
+2026-03-05 23:56:13 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-05 23:56:13 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-05 23:56:13 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-05 23:56:13 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-05 23:56:13 | INFO     | DF | Running on device cpu
+2026-03-05 23:56:13 | INFO     | DF | Model loaded
+2026-03-06 07:58:47 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 07:58:47 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 07:58:47 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 07:58:47 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 07:58:47 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 07:58:47 | INFO     | DF | Running on device cpu
+2026-03-06 07:58:47 | INFO     | DF | Model loaded
+2026-03-06 08:11:56 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 08:11:56 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 08:11:56 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 08:11:56 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 08:11:56 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 08:11:56 | INFO     | DF | Running on device cpu
+2026-03-06 08:11:56 | INFO     | DF | Model loaded
+2026-03-06 08:17:42 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 08:17:42 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 08:17:42 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 08:17:42 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 08:17:42 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 08:17:42 | INFO     | DF | Running on device cpu
+2026-03-06 08:17:42 | INFO     | DF | Model loaded
+2026-03-06 12:17:40 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 12:17:40 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 12:17:40 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 12:17:40 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 12:17:40 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 12:17:41 | INFO     | DF | Running on device cpu
+2026-03-06 12:17:41 | INFO     | DF | Model loaded
+2026-03-06 15:20:08 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 15:20:08 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 15:20:09 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 15:20:09 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 15:20:09 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 15:20:09 | INFO     | DF | Running on device cpu
+2026-03-06 15:20:09 | INFO     | DF | Model loaded
+2026-03-06 15:40:03 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 15:40:03 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 15:40:03 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 15:40:03 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 15:40:03 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 15:40:03 | INFO     | DF | Running on device cpu
+2026-03-06 15:40:03 | INFO     | DF | Model loaded
+2026-03-06 16:04:26 | INFO     | DF | Running on torch 2.2.2
+2026-03-06 16:04:26 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-06 16:04:26 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-06 16:04:26 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-06 16:04:26 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-06 16:04:26 | INFO     | DF | Running on device cpu
+2026-03-06 16:04:26 | INFO     | DF | Model loaded
+2026-03-07 23:10:37 | INFO     | DF | Running on torch 2.2.2
+2026-03-07 23:10:37 | INFO     | DF | Running on host sumits-MacBook-Air.local
+2026-03-07 23:10:37 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-07 23:10:37 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-07 23:10:37 | INFO     | DF | Found checkpoint /Users/sumit/Downloads/untitled folder/Main Folder/Sumit /Voice_editor/models/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-03-07 23:10:37 | INFO     | DF | Running on device cpu
+2026-03-07 23:10:37 | INFO     | DF | Model loaded
+2026-03-14 22:00:45 | INFO     | DF | Running on torch 2.4.1+cpu
+2026-03-14 22:00:45 | INFO     | DF | Running on host kartik
+2026-03-14 22:00:45 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-14 22:00:46 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-14 22:00:46 | INFO     | DF | Found checkpoint D:\Ai_voicegenerater\Ai_voicegenerater\ui\ui\Voice_editor\Voice_editor\models\DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2026-03-14 22:00:46 | INFO     | DF | Running on device cpu
+2026-03-14 22:00:46 | INFO     | DF | Model loaded
+2026-03-14 22:03:25 | INFO     | DF | Running on torch 2.4.1+cpu
+2026-03-14 22:03:25 | INFO     | DF | Running on host kartik
+2026-03-14 22:03:25 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-14 22:03:25 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-14 22:03:26 | INFO     | DF | Found checkpoint D:\Ai_voicegenerater\Ai_voicegenerater\ui\ui\Voice_editor\Voice_editor\models\DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2026-03-14 22:03:26 | INFO     | DF | Running on device cpu
+2026-03-14 22:03:26 | INFO     | DF | Model loaded
+2026-03-14 22:32:42 | INFO     | DF | Running on torch 2.4.1+cpu
+2026-03-14 22:32:42 | INFO     | DF | Running on host kartik
+2026-03-14 22:32:43 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-14 22:32:43 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-14 22:32:44 | INFO     | DF | Found checkpoint D:\Ai_voicegenerater\Ai_voicegenerater\ui\ui\Voice_editor\Voice_editor\models\DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2026-03-14 22:32:44 | INFO     | DF | Running on device cpu
+2026-03-14 22:32:44 | INFO     | DF | Model loaded
+2026-03-14 23:58:12 | INFO     | DF | Running on torch 2.4.1+cpu
+2026-03-14 23:58:12 | INFO     | DF | Running on host kartik
+2026-03-14 23:58:12 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-14 23:58:12 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-14 23:58:12 | INFO     | DF | Found checkpoint D:\Ai_voicegenerater\Ai_voicegenerater\backend\Voice_editor\Voice_editor\models\DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2026-03-14 23:58:12 | INFO     | DF | Running on device cpu
+2026-03-14 23:58:12 | INFO     | DF | Model loaded
+2026-03-15 00:01:25 | INFO     | DF | Running on torch 2.4.1+cpu
+2026-03-15 00:01:25 | INFO     | DF | Running on host kartik
+2026-03-15 00:01:25 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-15 00:01:25 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-15 00:01:25 | INFO     | DF | Found checkpoint D:\Ai_voicegenerater\Ai_voicegenerater\backend\Voice_editor\Voice_editor\models\DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2026-03-15 00:01:25 | INFO     | DF | Running on device cpu
+2026-03-15 00:01:25 | INFO     | DF | Model loaded
+2026-03-15 00:17:13 | INFO     | DF | Running on torch 2.4.1+cpu
+2026-03-15 00:17:13 | INFO     | DF | Running on host kartik
+2026-03-15 00:17:13 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-03-15 00:17:13 | INFO     | DF | Initializing model `deepfilternet3`
+2026-03-15 00:17:13 | INFO     | DF | Found checkpoint D:\Ai_voicegenerater\Ai_voicegenerater\backend\Voice_editor\Voice_editor\models\DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2026-03-15 00:17:13 | INFO     | DF | Running on device cpu
+2026-03-15 00:17:13 | INFO     | DF | Model loaded
