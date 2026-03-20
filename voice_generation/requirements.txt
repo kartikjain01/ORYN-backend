@@ -8,8 +8,8 @@ python-multipart==0.0.22
 # =========================
 # Audio Processing
 # =========================
-numpy==2.0.0
-scipy==1.11.4
+numpy==1.26.4
+scipy==1.13.0
 librosa==0.10.1
 soundfile==0.13.1
 pydub==0.25.1
