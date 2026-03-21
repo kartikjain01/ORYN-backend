@@ -9,7 +9,7 @@ anyio==4.12.1
 appdirs==1.4.4
 attrs==25.4.0
 audioread==3.1.0
-av==12.3.0
+#av==12.3.0
 babel==2.18.0
 bangla==0.0.5
 blinker==1.9.0
