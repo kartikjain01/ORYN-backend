@@ -145,7 +145,7 @@ tensorboard-data-server==0.7.2
 thinc==8.3.10
 threadpoolctl==3.6.0
 tiktoken==0.5.2
-tokenizers==0.22.2
+tokenizers==0.15.2
 torch==2.4.1
 torchaudio==2.4.1
 torchvision==0.19.1
