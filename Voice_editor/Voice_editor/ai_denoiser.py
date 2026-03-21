@@ -20,11 +20,11 @@ def process_ai_denoise(input_path, output_path, snr=None):
     # Load Local Model
     # --------------------------------------------------
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    local_model_path = os.path.join(script_dir, "models", "DeepFilterNet3")
+    local_model_path = "DeepFilterNet/DeepFilterNet3"
 
-    if not os.path.exists(os.path.join(local_model_path, "config.ini")):
-        print(f"❌ ERROR: Model not found in {local_model_path}")
-        return input_path
+    if not os.path.exists(local_model_path):
+      print(f"❌ ERROR: Model not found at {local_model_path}")
+      return input_path
 
     print("📦 Loading DeepFilterNet Model...")
     model, df_state, _ = init_df(model_base_dir=local_model_path)

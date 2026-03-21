@@ -36,6 +36,29 @@ except ImportError as e:
     print(f"❌ Custom Script Missing: {e}")
     sys.exit(1)
 
+
+from huggingface_hub import hf_hub_download
+import zipfile
+
+MODEL_DIR = "DeepFilterNet"
+
+def download_model():
+    if not os.path.exists(MODEL_DIR):
+        print("⬇️ Downloading DeepFilterNet from Hugging Face...")
+
+        zip_path = hf_hub_download(
+            repo_id="Kartikjain12345/deepfilternet",
+            filename="DeepFilterNet.zip"
+        )
+
+        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+            zip_ref.extractall(".")
+
+        print("✅ Model ready!")
+    else:
+        print("✅ Model already exists")
+
+
 #remove
 def save_debug(audio_tensor, sr, name):
     import soundfile as sf, os, torch
@@ -127,6 +150,7 @@ logger = logging.getLogger("VoiceEditor")
 
 def main():
 
+    download_model()
     parser = argparse.ArgumentParser(description="Voice Editor Production Pipeline")
 
     parser.add_argument("--input", type=str, required=True)
@@ -216,7 +240,7 @@ def main():
             )
 #remove
             audio_np, sr = load_audio(denoised_path)
-            save_debug(torch.tensor(audio_np), sr, "01_denoised")   
+            save_debug(torch.tensor(audio_np), sr, "01_denoised")
 #remove
 
         else:
