@@ -30,17 +30,13 @@ from modules.downward_expander import apply_downward_expander
 from modules.text_editor import edit_transcript
 from modules.repetition_remover import remove_repeated_sentences
 
-try:
-    from ai_denoiser import process_ai_denoise
-except ImportError as e:
-    print(f"❌ Custom Script Missing: {e}")
-    sys.exit(1)
+process_ai_denoise = None
 
 
 from huggingface_hub import hf_hub_download
 import zipfile
 
-MODEL_DIR = "DeepFilterNet"
+MODEL_DIR = "DeepFilterNet/DeepFilterNet3"
 
 def download_model():
     if not os.path.exists(MODEL_DIR):
@@ -52,9 +48,10 @@ def download_model():
         )
 
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            zip_ref.extractall(".")
+            zip_ref.extractall("DeepFilterNet")
 
-        print("✅ Model ready!")
+        print("✅ Model extracted!")
+
     else:
         print("✅ Model already exists")
 
@@ -150,7 +147,7 @@ logger = logging.getLogger("VoiceEditor")
 
 def main():
 
-    download_model()
+    # download_model() #
     parser = argparse.ArgumentParser(description="Voice Editor Production Pipeline")
 
     parser.add_argument("--input", type=str, required=True)
@@ -229,24 +226,20 @@ def main():
 
         denoised_file = os.path.join(temp_dir, f"{base_name}_denoised.wav")
 
-        if decision.run_denoise():
+        if process_ai_denoise and decision.run_denoise():
 
-            logger.info("Running AI Denoise...")
+          logger.info("Running AI Denoise...")
 
-            denoised_path = process_ai_denoise(
-                raw_path,
-                denoised_file,
-                snr=snr_value
-            )
-#remove
-            audio_np, sr = load_audio(denoised_path)
-            save_debug(torch.tensor(audio_np), sr, "01_denoised")
-#remove
+          denoised_path = process_ai_denoise(
+            raw_path,
+            denoised_file,
+            snr=snr_value
+    )
 
         else:
 
-            logger.info("Skipping Denoise (clean recording)")
-            denoised_path = raw_path
+         logger.info("🚫 Denoiser disabled or skipped")
+         denoised_path = raw_path
 
         if not os.path.exists(denoised_path):
             denoised_path = raw_path
