@@ -1,11 +1,8 @@
-# Use the CPU-only versions to save ~3GB of space
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.4.1+cpu
-torchaudio==2.4.1+cpu
-
-# Keep the rest, but let's be careful with heavy models
+# --- Backend & Web ---
 fastapi==0.135.1
 uvicorn==0.42.0
+
+# --- Core Audio Processing ---
 numpy==1.26.4
 scipy==1.11.4
 librosa==0.10.1
@@ -13,12 +10,23 @@ soundfile==0.12.1
 pydub==0.25.1
 pyloudnorm==0.1.1
 soxr==1.0.0
+
+# --- Machine Learning (CPU-ONLY) ---
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
+torchaudio==2.4.1+cpu
+
+# --- Speech & Transcription ---
 openai-whisper==20250625
 faster-whisper==1.0.3
 ctranslate2==4.7.1
 tokenizers==0.22.2
+
+# --- Noise Reduction ---
 DeepFilterNet==0.5.6
 DeepFilterLib==0.5.6
+
+# --- Utilities ---
 tqdm==4.66.2
 tiktoken==0.5.2
 rapidfuzz==3.14.3
