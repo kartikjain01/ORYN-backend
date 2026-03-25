@@ -1,25 +1,32 @@
-# Core Build Tools (Must be at the top)
-setuptools==70.0.0
-wheel
-# NumPy 1.26.4 is the most stable version for Python 3.11
+# Backend
+fastapi==0.135.1
+uvicorn==0.42.0
+
+# Core audio processing
 numpy==1.26.4
-
-# AI & Voice Engines (Optimized for Railway's CPU RAM)
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.4.1+cpu
-torchaudio==2.4.1+cpu
-# TTS 0.22.0 is the last stable version with full feature support
-TTS==0.22.0
-onnxruntime==1.19.0
-
-# API & Web Framework
-fastapi==0.115.0
-uvicorn==0.30.1
-python-multipart==0.0.9
-python-dotenv==1.2.2
-
-# Audio Processing Helpers
+scipy==1.11.4
 librosa==0.10.1
 soundfile==0.12.1
 pydub==0.25.1
-huggingface_hub
+pyloudnorm==0.1.1
+soxr==1.0.0
+
+# Machine Learning
+torch==2.4.1
+torchaudio==2.4.1
+
+# Speech & transcription
+openai-whisper==20250625
+faster-whisper==1.0.3
+ctranslate2==4.7.1
+tokenizers==0.22.2
+
+# Noise reduction
+DeepFilterNet==0.5.6
+DeepFilterLib==0.5.6
+
+# Utilities
+tqdm==4.66.2
+tiktoken==0.5.2
+rapidfuzz==3.14.3
+requests==2.32.5
