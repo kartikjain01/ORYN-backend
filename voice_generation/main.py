@@ -16,9 +16,12 @@ MODEL_FILE = "kokoro-v1.0.int8.onnx"
 VOICE_FILE = "voices-v1.0.bin"
 OUTPUT_FILE = "final_commercial_audio.wav"
 SAMPLE_RATE = 24000
-MAX_THREADS = 4 
+MAX_THREADS = 4
 
-# --- MASTER DEFAULT VOICES FOR 10 CATEGORIES ---
+# 🔥 NEW SAFE LIMITS
+MAX_CHARS = 180   # prevents phoneme overflow
+
+# --- MASTER DEFAULT VOICES ---
 DEFAULT_VOICES = {
     "hi": "hm_omega",
     "zh": "zm_yunxi",
@@ -40,17 +43,44 @@ if not os.path.exists(MODEL_FILE):
 kokoro = Kokoro(MODEL_FILE, VOICE_FILE)
 
 
-def split_text_into_sentences(text):
-    """Splits text into chunks at sentence boundaries"""
+# ✅ UPDATED SMART CHUNKING (IMPORTANT)
+def split_text_into_sentences(text, max_chars=MAX_CHARS):
     sentences = re.split(r'(?<=[.!?])\s+', text.strip())
-    return [s for s in sentences if s.strip()]
+
+    chunks = []
+    current = ""
+
+    for sentence in sentences:
+        sentence = sentence.strip()
+
+        # If single sentence too long → split further
+        if len(sentence) > max_chars:
+            parts = [sentence[i:i+max_chars] for i in range(0, len(sentence), max_chars)]
+            for part in parts:
+                chunks.append(part.strip())
+            continue
+
+        if len(current) + len(sentence) <= max_chars:
+            current += sentence + " "
+        else:
+            chunks.append(current.strip())
+            current = sentence + " "
+
+    if current:
+        chunks.append(current.strip())
+
+    return chunks
 
 
 def generate_chunk(sentence_data):
-    """Logic to detect language and generate clean audio"""
     index, text = sentence_data
 
     text = text.replace("\n", " ").strip()
+
+    # 🔥 HARD SAFETY LIMIT (EXTRA PROTECTION)
+    if len(text) > MAX_CHARS:
+        text = text[:MAX_CHARS]
+
     if not text:
         return index, None
 
@@ -89,10 +119,12 @@ def generate_chunk(sentence_data):
             lang=current_lang
         )
 
+        # Trim end noise
         trim_samples = int(sr * 0.08)
         if len(samples) > trim_samples:
             samples = samples[:-trim_samples]
 
+        # Add silence
         silence_padding = np.zeros(int(sr * 0.25))
         clean_samples = np.concatenate([samples, silence_padding])
 
@@ -117,11 +149,13 @@ def main(custom_text=None, custom_output=None):
             print("❌ script.txt not found!")
             return None
 
+    # ✅ USE UPDATED CHUNKING
     sentences = split_text_into_sentences(input_text)
+
     indexed_sentences = list(enumerate(sentences))
     total_chunks = len(sentences)
 
-    print(f"🚀 Processing {total_chunks} chunks with 10-Language Auto-Logic...")
+    print(f"🚀 Processing {total_chunks} chunks with SAFE chunking...")
     start_total = time.time()
 
     results = []
