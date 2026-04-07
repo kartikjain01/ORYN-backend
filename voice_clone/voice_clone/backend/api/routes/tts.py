@@ -10,6 +10,17 @@ from typing import Any, Dict, Optional
 
 from fastapi import APIRouter, HTTPException, BackgroundTasks
 from fastapi.responses import FileResponse
+from dotenv import load_dotenv
+from supabase import create_client
+
+load_dotenv()
+# -------------------------
+# SUPABASE CONFIG
+# -------------------------
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_SERVICE_KEY = os.getenv("SUPABASE_SERVICE_KEY")
+
+supabase = create_client(SUPABASE_URL, SUPABASE_SERVICE_KEY)
 from pydantic import BaseModel
 
 from backend.storage.paths import ensure_generation_dirs, ensure_voice_dirs
@@ -24,7 +35,6 @@ from backend.services.postprocess.merge import merge_chunks, MergeConfig
 from backend.workers.tasks import run_tts_job  # RQ worker task (dict-based)
 
 router = APIRouter(prefix="/v1/tts", tags=["tts"])
-
 
 # ----------------------------
 # Settings (choose mode)
@@ -96,6 +106,27 @@ def _voice_ref_path(voice_id: str) -> Path:
             detail="reference_clean.wav not found; run /v1/voices/{voice_id}/build first",
         )
     return ref
+
+# ============================
+# ✅ Upload Function (NEW)
+# ============================
+def upload_to_supabase(file_path: Path):
+    try:
+        file_name = f"voice-clone/{uuid.uuid4()}.wav"
+
+        with open(file_path, "rb") as f:
+            res = supabase.storage.from_("outputs").upload(file_name, f)
+
+            if hasattr(res, "error") and res.error:
+               raise Exception(res["error"])
+
+        public_url = supabase.storage.from_("outputs").get_public_url(file_name)
+
+        return public_url["publicUrl"]
+
+    except Exception as e:
+        print("Supabase upload failed:", e)
+        return None
 
 
 # ----------------------------
@@ -175,15 +206,16 @@ def _run_tts_job(job_id: str, body: TTSRequest) -> None:
             cfg=MergeConfig(crossfade_ms=80, loudnorm=True),
         )
 
+        audio_url = upload_to_supabase(final_path)
+
         _write_job(
-            job_id,
-            {
-                "job_id": job_id,
-                "status": "done",
-                "updated_at": _utc_now_iso(),
-                "final_path": str(final_path),
-                "chunks_dir": str(_job_dir(job_id) / "chunks"),
-            },
+           job_id,
+          {
+           "job_id": job_id,
+           "status": "done",
+           "updated_at": _utc_now_iso(),
+           "audio_url": audio_url,
+          },
         )
 
     except Exception as e:
@@ -261,7 +293,8 @@ def download_tts(job_id: str):
     job = _read_job(job_id)
     if job.get("status") != "done":
         raise HTTPException(status_code=409, detail=f"Job not ready. status={job.get('status')}")
-    final_path = Path(job.get("final_path", ""))
-    if not final_path.exists():
-        raise HTTPException(status_code=404, detail="Final output not found")
-    return FileResponse(str(final_path), filename=final_path.name)
+    audio_url = job.get("audio_url")
+    if not audio_url:
+       raise HTTPException(status_code=404, detail="Audio not found")
+
+    return {"download_url": audio_url}
