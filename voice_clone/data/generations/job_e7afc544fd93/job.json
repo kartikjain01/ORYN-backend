@@ -1,0 +1,16 @@
+{
+  "job_id": "job_e7afc544fd93",
+  "status": "done",
+  "updated_at": "2026-05-18T09:54:02.259500+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_e7afc544fd93.wav",
+  "text_analysis": {
+    "original_text": "hello i am sumit saini",
+    "cleaned_text": "hello i am sumit saini",
+    "enhanced_text": "hello i am sumit saini.",
+    "emotion": "neutral",
+    "sentences": [
+      "hello i am sumit saini."
+    ]
+  },
+  "language": "en"
+}

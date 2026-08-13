@@ -1,0 +1,29 @@
+{
+  "job_id": "job_f81bced44d7f",
+  "status": "done",
+  "updated_at": "2026-05-26T17:14:55.976271+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_f81bced44d7f.wav",
+  "text_analysis": {
+    "original_text": "Have you ever walked into a room\u2026 and suddenly became hyper-aware of yourself? How you look. How you talk. Whether people are judging you. Whether you sound stupid. Whether you\u2019re enough. Most people spend their entire lives trapped in this invisible prison. But one day\u2026 something changes. You realize something shocking: Nobody cares. Not in a cruel way. Not because you\u2019re worthless. But because everyone is too busy worrying about themselves. And the moment you truly understand this\u2026 You become dangerous. Because fear loses control over you.",
+    "cleaned_text": "Have you ever walked into a room and suddenly became hyperaware of yourself? How you look. How you talk. Whether people are judging you. Whether you sound stupid. Whether youre enough. Most people spend their entire lives trapped in this invisible prison. But one day something changes. You realize something shocking Nobody cares. Not in a cruel way. Not because youre worthless. But because everyone is too busy worrying about themselves. And the moment you truly understand this You become dangerous. Because fear loses control over you.",
+    "enhanced_text": "Have you ever walked into a room and suddenly became hyperaware of yourself? How you look. How you talk. Whether people are judging you. Whether you sound stupid. Whether youre enough. Most people spend their entire lives trapped in this invisible prison. But one day something changes. You realize something shocking Nobody cares. Not in a cruel way. Not because youre worthless. But because everyone is too busy worrying about themselves. And the moment you truly understand this You become dangerous. Because fear loses control over you.",
+    "emotion": "curious",
+    "sentences": [
+      "Have you ever walked into a room and suddenly became hyperaware of yourself?",
+      "How you look.",
+      "How you talk.",
+      "Whether people are judging you.",
+      "Whether you sound stupid.",
+      "Whether youre enough.",
+      "Most people spend their entire lives trapped in this invisible prison.",
+      "But one day something changes.",
+      "You realize something shocking Nobody cares.",
+      "Not in a cruel way.",
+      "Not because youre worthless.",
+      "But because everyone is too busy worrying about themselves.",
+      "And the moment you truly understand this You become dangerous.",
+      "Because fear loses control over you."
+    ]
+  },
+  "language": "en"
+}

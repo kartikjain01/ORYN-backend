@@ -1,0 +1,96 @@
+from fastapi import FastAPI, Body, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+import os
+import uuid
+
+from main import main
+from supabase import create_client
+from dotenv import load_dotenv
+
+# 🔹 Load env
+load_dotenv()
+
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_KEY")
+
+supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+app = FastAPI(title="Voice Generation API")
+
+# ✅ CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+
+        "https://orynengine.com",
+        "https://www.orynengine.com"
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# 🔹 Upload function
+def upload_to_supabase(file_path: str, user_id: str, job_id: str):
+    try:
+        safe_user = user_id.strip().replace(" ", "_").lower()
+        file_name = f"tts/{safe_user}_{job_id}"
+
+        with open(file_path, "rb") as f:
+            supabase.storage.from_("outputs").upload(
+                file_name,
+                f,
+                file_options={"content-type": "audio/wav"}
+            )
+
+        public_url = supabase.storage.from_("outputs").get_public_url(file_name)
+
+        print("✅ UPLOAD SUCCESS:", public_url)
+
+        return public_url
+
+    except Exception as e:
+        print("❌ Upload error:", e)
+        return None
+
+@app.get("/")
+def root():
+    return {"message": "Voice Generation API Running 🚀"}
+
+
+# 🎤 Generate TTS
+@app.post("/generate")
+async def handle_tts(payload: dict = Body(...)):
+    try:
+        user_text = payload.get("text", "")
+        user_id = payload.get("user_id", "unknown_user")
+
+        if not user_text.strip():
+            raise HTTPException(status_code=400, detail="No text provided")
+
+        # 🔥 Create job ID
+        job_id = uuid.uuid4().hex
+        file_name = f"{job_id}.wav"
+
+        # 🔊 Generate audio (ONLY ONCE)
+        result_file = main(custom_text=user_text, custom_output=file_name)
+
+        if result_file and os.path.exists(result_file):
+
+            # ✅ Upload to Supabase
+            audio_url = upload_to_supabase(result_file, user_id, job_id)
+
+            # ✅ Delete local file
+          #  try:
+          #      os.remove(result_file)
+          #   except Exception as e:
+           #     print("Delete error:", e)
+
+            return {
+                "audio_url": audio_url
+            }
+
+        raise HTTPException(status_code=500, detail="Audio file not created")
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

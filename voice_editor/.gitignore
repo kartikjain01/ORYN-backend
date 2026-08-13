@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Voice Editor heavy files
+Voice_editor/DeepFilterNet/
+Voice_editor/DeepFilterNet.zip
+Voice_editor/outputs/
+Voice_editor/temp/
+Voice_editor/debug_outputs/
+Voice_editor/uploads/
+
+# Voice generation outputs
+voice_generation/*.wav
+
+# Voice clone data
+voice_clone/data/
+
+# General audio
+*.wav
+*.mp3

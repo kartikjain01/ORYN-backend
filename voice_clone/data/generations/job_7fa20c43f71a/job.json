@@ -1,0 +1,16 @@
+{
+  "job_id": "job_7fa20c43f71a",
+  "status": "done",
+  "updated_at": "2026-05-27T13:53:59.230049+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_7fa20c43f71a.wav",
+  "text_analysis": {
+    "original_text": "hi i am kartik",
+    "cleaned_text": "hi i am kartik",
+    "enhanced_text": "hi i am kartik.",
+    "emotion": "neutral",
+    "sentences": [
+      "hi i am kartik."
+    ]
+  },
+  "language": "en"
+}

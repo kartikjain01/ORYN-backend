@@ -1,0 +1,16 @@
+{
+  "job_id": "job_6278322229c2",
+  "status": "done",
+  "updated_at": "2026-04-27T09:25:10.935392+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/user_123_job_6278322229c2.wav",
+  "text_analysis": {
+    "original_text": "Hello, this is a test of the voice cloning system.",
+    "cleaned_text": "Hello, this is a test of the voice cloning system.",
+    "enhanced_text": "Hello, this is a test of the voice cloning system.",
+    "emotion": "neutral",
+    "sentences": [
+      "Hello, this is a test of the voice cloning system."
+    ]
+  },
+  "language": "en"
+}

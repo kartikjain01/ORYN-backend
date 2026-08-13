@@ -1,0 +1,6 @@
+{
+  "job_id": "job_e0cbc0feb173",
+  "status": "failed",
+  "updated_at": "2026-05-17T17:05:02.794179+00:00",
+  "error": "[Errno 2] No such file or directory: '/home/ubuntu/ORYN-backend/voice_clone/data/generations/job_e0cbc0feb173/chunks/chunk_001.wav'"
+}

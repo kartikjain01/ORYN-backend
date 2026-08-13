@@ -1,0 +1,187 @@
+{
+  "job_id": "job_35d6cb7cafab",
+  "status": "done",
+  "updated_at": "2026-07-08T10:13:09.367765+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/user_default_01_job_35d6cb7cafab.wav",
+  "text_analysis": {
+    "enhanced_text": "Hello, I am Sumit Saini. I am a software developer and UIUX designer.",
+    "syntax": [
+      {
+        "word": "Hello",
+        "lemma": "hello",
+        "pos": "INTJ",
+        "tag": "UH",
+        "dep": "intj",
+        "head": "am"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "am"
+      },
+      {
+        "word": "I",
+        "lemma": "I",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "am"
+      },
+      {
+        "word": "am",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "am"
+      },
+      {
+        "word": "Sumit",
+        "lemma": "Sumit",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Saini"
+      },
+      {
+        "word": "Saini",
+        "lemma": "Saini",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "attr",
+        "head": "am"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "am"
+      },
+      {
+        "word": "I",
+        "lemma": "I",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "am"
+      },
+      {
+        "word": "am",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "am"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "developer"
+      },
+      {
+        "word": "software",
+        "lemma": "software",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "compound",
+        "head": "developer"
+      },
+      {
+        "word": "developer",
+        "lemma": "developer",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "attr",
+        "head": "am"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "developer"
+      },
+      {
+        "word": "UI",
+        "lemma": "UI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "nmod",
+        "head": "UX"
+      },
+      {
+        "word": "/",
+        "lemma": "/",
+        "pos": "SYM",
+        "tag": "SYM",
+        "dep": "punct",
+        "head": "UX"
+      },
+      {
+        "word": "UX",
+        "lemma": "UX",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "designer"
+      },
+      {
+        "word": "designer",
+        "lemma": "designer",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "conj",
+        "head": "developer"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "am"
+      }
+    ],
+    "semantics": {
+      "entities": [
+        {
+          "text": "Sumit Saini",
+          "label": "PERSON"
+        },
+        {
+          "text": "UI",
+          "label": "ORG"
+        }
+      ],
+      "keywords": [
+        "software",
+        "developer",
+        "designer"
+      ]
+    },
+    "intent": {
+      "intent": "statement"
+    },
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.5,
+      "scores": {}
+    },
+    "prosody": {
+      "speed": 1.0,
+      "pause": 0.25,
+      "pitch": 1.0,
+      "energy_scale": 1.0
+    }
+  },
+  "language": "en"
+}

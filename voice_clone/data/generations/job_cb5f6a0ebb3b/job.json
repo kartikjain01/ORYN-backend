@@ -1,0 +1,20 @@
+{
+  "job_id": "job_cb5f6a0ebb3b",
+  "status": "done",
+  "updated_at": "2026-05-27T14:59:38.096098+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/admin_stress_test_job_cb5f6a0ebb3b.wav",
+  "text_analysis": {
+    "original_text": "I've been reviewing the architecture, and honestly, we could've managed the deployment much better if we'd checked the logs beforehand. There's a persistent token mismatch in the environment files that shouldn't be happening, but it's fine because i'll patch the git origin URL right away. He'd usually handle the API schema routing himself, but since they're currently optimizing the pipeline latency, they won't be able to hop onto the call until 10:30 PM tonight. If we don't fix this by tomorrow morning, it'll likely cascade into an authentication loop that we wouldn't want to deal with over the weekend. Let's see how the model synthesizes this entire narrative block.",
+    "cleaned_text": "I've been reviewing the architecture, and honestly, we could've managed the deployment much better if we'd checked the logs beforehand. There's a persistent token mismatch in the environment files that shouldn't be happening, but it's fine because i'll patch the git origin URL right away. He'd usually handle the API schema routing himself, but since they're currently optimizing the pipeline latency, they won't be able to hop onto the call until 1030 PM tonight. If we don't fix this by tomorrow morning, it'll likely cascade into an authentication loop that we wouldn't want to deal with over the weekend. Let's see how the model synthesizes this entire narrative block.",
+    "enhanced_text": "I've been reviewing the architecture, and honestly, we could've managed the deployment much better if we'd checked the logs beforehand. There's a persistent token mismatch in the environment files that shouldn't be happening, but it's fine because i'll patch the git origin URL right away. He'd usually handle the API schema routing himself, but since they're currently optimizing the pipeline latency, they won't be able to hop onto the call until 1030 PM tonight. If we don't fix this by tomorrow morning, it'll likely cascade into an authentication loop that we wouldn't want to deal with over the weekend. Let's see how the model synthesizes this entire narrative block.",
+    "emotion": "neutral",
+    "sentences": [
+      "I've been reviewing the architecture, and honestly, we could've managed the deployment much better if we'd checked the logs beforehand.",
+      "There's a persistent token mismatch in the environment files that shouldn't be happening, but it's fine because i'll patch the git origin URL right away.",
+      "He'd usually handle the API schema routing himself, but since they're currently optimizing the pipeline latency, they won't be able to hop onto the call until 1030 PM tonight.",
+      "If we don't fix this by tomorrow morning, it'll likely cascade into an authentication loop that we wouldn't want to deal with over the weekend.",
+      "Let's see how the model synthesizes this entire narrative block."
+    ]
+  },
+  "language": "en"
+}

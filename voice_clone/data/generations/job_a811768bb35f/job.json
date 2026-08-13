@@ -1,0 +1,6 @@
+{
+  "job_id": "job_a811768bb35f",
+  "status": "failed",
+  "updated_at": "2026-05-27T15:42:01.774080+00:00",
+  "error": "index out of range in self"
+}

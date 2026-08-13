@@ -1,0 +1,6 @@
+{
+  "job_id": "job_42f73ccf9fda",
+  "status": "failed",
+  "updated_at": "2026-05-29T07:33:21.430103+00:00",
+  "error": "expected string or bytes-like object, got 'list'"
+}

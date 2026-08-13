@@ -1,0 +1,38 @@
+{
+  "job_id": "job_b2b2d135a31f",
+  "status": "done",
+  "updated_at": "2026-05-29T07:44:38.244502+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_b2b2d135a31f.wav",
+  "text_analysis": {
+    "enhanced_text": "hi",
+    "syntax": [
+      {
+        "word": "hi",
+        "lemma": "hi",
+        "pos": "INTJ",
+        "tag": "UH",
+        "dep": "ROOT",
+        "head": "hi"
+      }
+    ],
+    "semantics": {
+      "entities": [],
+      "keywords": []
+    },
+    "intent": {
+      "intent": "statement"
+    },
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.5,
+      "scores": {}
+    },
+    "prosody": {
+      "speed": 1.05,
+      "pause": 0.2,
+      "pitch": 1.0,
+      "energy_scale": 1.0
+    }
+  },
+  "language": "en"
+}

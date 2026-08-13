@@ -1,0 +1,53 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# --- FastAPI stack ---
+fastapi==0.135.3
+uvicorn==0.44.0
+starlette==1.0.0
+python-multipart==0.0.26
+
+# --- Env ---
+python-dotenv==1.2.2
+pydantic-settings==2.10.1
+
+# --- Supabase ---
+supabase==2.29.0
+postgrest==2.29.0
+storage3==2.29.0
+realtime==2.29.0
+
+# --- Core utils ---
+numpy==1.26.4
+scipy==1.15.3
+soundfile==0.13.1
+pydub==0.25.1
+
+# --- Audio processing ---
+librosa==0.11.0
+noisereduce==3.0.3
+DeepFilterNet==0.5.6
+DeepFilterLib==0.5.6
+deepfilternet
+
+# --- ML / Torch (CPU ONLY) ---
+torch==2.2.2+cpu
+torchaudio==2.2.2+cpu
+torchvision==0.17.2+cpu
+
+# --- Whisper ---
+openai-whisper==20250625
+faster-whisper==1.2.1
+
+# --- ONNX ---
+onnxruntime==1.23.2
+ctranslate2==4.7.1
+
+# --- Helpers ---
+tqdm==4.67.3
+requests==2.33.1
+httpx==0.28.1
+loguru==0.7.3
+
+# --- Optional ---
+matplotlib==3.10.8
+scikit-learn==1.7.2

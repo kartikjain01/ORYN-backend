@@ -1,0 +1,6 @@
+{
+  "job_id": "job_3309eb3224b0",
+  "status": "failed",
+  "updated_at": "2026-07-08T09:57:31.607957+00:00",
+  "error": "'XTTSParams' object has no attribute 'x_vector_only_mode'"
+}

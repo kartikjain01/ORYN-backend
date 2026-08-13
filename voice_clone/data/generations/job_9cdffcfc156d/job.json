@@ -1,0 +1,64 @@
+{
+  "job_id": "job_9cdffcfc156d",
+  "status": "done",
+  "updated_at": "2026-05-29T07:41:07.055021+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_9cdffcfc156d.wav",
+  "text_analysis": {
+    "enhanced_text": "hello i am kartik",
+    "syntax": [
+      {
+        "word": "hello",
+        "lemma": "hello",
+        "pos": "INTJ",
+        "tag": "UH",
+        "dep": "intj",
+        "head": "am"
+      },
+      {
+        "word": "i",
+        "lemma": "I",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "am"
+      },
+      {
+        "word": "am",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "am"
+      },
+      {
+        "word": "kartik",
+        "lemma": "kartik",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "attr",
+        "head": "am"
+      }
+    ],
+    "semantics": {
+      "entities": [],
+      "keywords": [
+        "kartik"
+      ]
+    },
+    "intent": {
+      "intent": "statement"
+    },
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.5,
+      "scores": {}
+    },
+    "prosody": {
+      "speed": 1.05,
+      "pause": 0.2,
+      "pitch": 1.0,
+      "energy_scale": 1.0
+    }
+  },
+  "language": "en"
+}

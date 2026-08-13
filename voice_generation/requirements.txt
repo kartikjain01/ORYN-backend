@@ -1,0 +1,27 @@
+# --- Core TTS ---
+kokoro-onnx==0.5.0
+onnxruntime==1.20.1
+soundfile==0.12.1
+numpy==2.4.3
+
+# --- NLP ---
+nltk==3.9.4
+spacy==3.8.14
+
+# --- Language Detection ---
+langdetect==1.0.9
+
+# --- Utilities ---
+tqdm==4.67.3
+requests==2.32.5
+
+# --- FastAPI ---
+fastapi==0.135.1
+uvicorn==0.42.0
+python-multipart==0.0.22
+
+# --- Supporting ---
+pydantic==2.12.5
+typing_extensions==4.15.0
+setuptools==68.2.2
+supabase

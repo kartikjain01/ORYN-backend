@@ -1,0 +1,62 @@
+{
+  "job_id": "job_356e9c3d6e66",
+  "status": "done",
+  "updated_at": "2026-05-29T07:42:59.119064+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_356e9c3d6e66.wav",
+  "text_analysis": {
+    "enhanced_text": "hello how are you",
+    "syntax": [
+      {
+        "word": "hello",
+        "lemma": "hello",
+        "pos": "INTJ",
+        "tag": "UH",
+        "dep": "intj",
+        "head": "are"
+      },
+      {
+        "word": "how",
+        "lemma": "how",
+        "pos": "SCONJ",
+        "tag": "WRB",
+        "dep": "advmod",
+        "head": "are"
+      },
+      {
+        "word": "are",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "are"
+      },
+      {
+        "word": "you",
+        "lemma": "you",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "are"
+      }
+    ],
+    "semantics": {
+      "entities": [],
+      "keywords": []
+    },
+    "intent": {
+      "intent": "statement"
+    },
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.5,
+      "scores": {}
+    },
+    "prosody": {
+      "speed": 1.05,
+      "pause": 0.2,
+      "pitch": 1.0,
+      "energy_scale": 1.0
+    }
+  },
+  "language": "en"
+}

@@ -1,0 +1,171 @@
+{
+  "job_id": "job_9df528b8c750",
+  "status": "done",
+  "updated_at": "2026-07-08T10:30:51.251720+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/user_default_01_job_9df528b8c750.wav",
+  "text_analysis": {
+    "enhanced_text": "Hello, I am kartik jain. I am a software developer and ai ml engineer.",
+    "syntax": [
+      {
+        "word": "Hello",
+        "lemma": "hello",
+        "pos": "INTJ",
+        "tag": "UH",
+        "dep": "intj",
+        "head": "am"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "am"
+      },
+      {
+        "word": "I",
+        "lemma": "I",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "am"
+      },
+      {
+        "word": "am",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "am"
+      },
+      {
+        "word": "kartik",
+        "lemma": "kartik",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "jain"
+      },
+      {
+        "word": "jain",
+        "lemma": "jain",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "attr",
+        "head": "am"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "am"
+      },
+      {
+        "word": "I",
+        "lemma": "I",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "am"
+      },
+      {
+        "word": "am",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "am"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "developer"
+      },
+      {
+        "word": "software",
+        "lemma": "software",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "compound",
+        "head": "developer"
+      },
+      {
+        "word": "developer",
+        "lemma": "developer",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "attr",
+        "head": "am"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "am"
+      },
+      {
+        "word": "ai",
+        "lemma": "ai",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "am"
+      },
+      {
+        "word": "ml",
+        "lemma": "ml",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "engineer"
+      },
+      {
+        "word": "engineer",
+        "lemma": "engineer",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "attr",
+        "head": "ai"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "am"
+      }
+    ],
+    "semantics": {
+      "entities": [],
+      "keywords": [
+        "software",
+        "developer",
+        "ai",
+        "engineer"
+      ]
+    },
+    "intent": {
+      "intent": "statement"
+    },
+    "emotion": {
+      "emotion": "neutral",
+      "confidence": 0.5,
+      "scores": {}
+    },
+    "prosody": {
+      "speed": 1.0,
+      "pause": 0.25,
+      "pitch": 1.0,
+      "energy_scale": 1.0
+    }
+  },
+  "language": "en"
+}

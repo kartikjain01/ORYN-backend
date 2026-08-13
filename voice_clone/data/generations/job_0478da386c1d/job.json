@@ -1,0 +1,16 @@
+{
+  "job_id": "job_0478da386c1d",
+  "status": "done",
+  "updated_at": "2026-05-05T15:44:32.758450+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_job_0478da386c1d.wav",
+  "text_analysis": {
+    "original_text": "The quick brown fox jumps over the lazy dog to test the audio clarity and pace.",
+    "cleaned_text": "The quick brown fox jumps over the lazy dog to test the audio clarity and pace.",
+    "enhanced_text": "The quick brown fox jumps over the lazy dog to test the audio clarity and pace.",
+    "emotion": "neutral",
+    "sentences": [
+      "The quick brown fox jumps over the lazy dog to test the audio clarity and pace."
+    ]
+  },
+  "language": "en"
+}

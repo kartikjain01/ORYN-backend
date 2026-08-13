@@ -1,0 +1,16 @@
+{
+  "job_id": "job_5316053a53bc",
+  "status": "done",
+  "updated_at": "2026-05-18T08:45:35.600229+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/kartik_jain_job_5316053a53bc.wav",
+  "text_analysis": {
+    "original_text": "hi",
+    "cleaned_text": "hi",
+    "enhanced_text": "hi.",
+    "emotion": "neutral",
+    "sentences": [
+      "hi."
+    ]
+  },
+  "language": "en"
+}

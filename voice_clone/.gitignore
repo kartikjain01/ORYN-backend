@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/voices/*
+data/processed/*
+data/final_output/*
+!data/**/.gitkeep

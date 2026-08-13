@@ -1,0 +1,3439 @@
+{
+  "job_id": "job_66139e62a24d",
+  "status": "done",
+  "updated_at": "2026-07-28T09:16:13.682538+00:00",
+  "audio_url": "https://pwghoohfgjeaaumloung.supabase.co/storage/v1/object/public/outputs/voice-clone/test_user_job_66139e62a24d.wav",
+  "text_analysis": {
+    "enhanced_text": "Every great creation starts with something small. A thought. An idea. A story waiting to be told. But turning that idea into something real... That's where the journey begins. The voice. The words. The visuals. The editing. So many tools. So many steps. So much time. What if you could bring it all together? Welcome to ORYN Engine. A new generation of AIpowered creative technology, built to turn your ideas into reality. Start with your voice. With AI Voice Cloning, create a digital voice that sounds like youand make your voice part of every story you tell. Or explore a world of AI voices with TexttoSpeech, and give every idea the voice it deserves. Want to make it your own? With the ORYN Voice Editor, shape your audio, refine your sound, and bring every word to life. But a great story doesn't stop at the voice. It needs the right words. With AI Caption Writing, transform your thoughts into captions that connect with your audience, in the language and style that fits your story. And we're just getting started. Imagine writing one script... and watching it transform into a complete visual story. With our upcoming AI Text Storyboard, your script will become a scenebyscene creative blueprinthelping you discover and generate the images your story needs. And soon... your story won't just be planned. It will come to life. With the upcoming AI Video Editor, bring your voices, captions, images, and videos together and turn your ideas into complete content. One idea. One creative workspace. Endless possibilities. This is more than a collection of AI tools. It's a new way to create. From the first thought... to the final frame. ORYN Engine. Imagine it. Create it. Bring it to life. Sign up today. Your story is waiting.",
+    "syntax": [
+      {
+        "word": "Every",
+        "lemma": "every",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "creation"
+      },
+      {
+        "word": "great",
+        "lemma": "great",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "creation"
+      },
+      {
+        "word": "creation",
+        "lemma": "creation",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "starts"
+      },
+      {
+        "word": "starts",
+        "lemma": "start",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "ROOT",
+        "head": "starts"
+      },
+      {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "starts"
+      },
+      {
+        "word": "something",
+        "lemma": "something",
+        "pos": "PRON",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "with"
+      },
+      {
+        "word": "small",
+        "lemma": "small",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "something"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "starts"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "thought"
+      },
+      {
+        "word": "thought",
+        "lemma": "thought",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "thought"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "thought"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "An",
+        "lemma": "an",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "idea"
+      },
+      {
+        "word": "idea",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "idea"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "idea"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "story"
+      },
+      {
+        "word": "waiting",
+        "lemma": "wait",
+        "pos": "VERB",
+        "tag": "VBG",
+        "dep": "acl",
+        "head": "story"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO",
+        "dep": "aux",
+        "head": "told"
+      },
+      {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB",
+        "dep": "auxpass",
+        "head": "told"
+      },
+      {
+        "word": "told",
+        "lemma": "tell",
+        "pos": "VERB",
+        "tag": "VBN",
+        "dep": "xcomp",
+        "head": "waiting"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "story"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "But",
+        "lemma": "but",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "turning"
+      },
+      {
+        "word": "turning",
+        "lemma": "turn",
+        "pos": "VERB",
+        "tag": "VBG",
+        "dep": "ROOT",
+        "head": "turning"
+      },
+      {
+        "word": "that",
+        "lemma": "that",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "idea"
+      },
+      {
+        "word": "idea",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "turning"
+      },
+      {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "turning"
+      },
+      {
+        "word": "something",
+        "lemma": "something",
+        "pos": "PRON",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "into"
+      },
+      {
+        "word": "real",
+        "lemma": "real",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "something"
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "pos": "PUNCT",
+        "tag": ":",
+        "dep": "punct",
+        "head": "turning"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "..."
+      },
+      {
+        "word": "That",
+        "lemma": "that",
+        "pos": "PRON",
+        "tag": "DT",
+        "dep": "nsubj",
+        "head": "'s"
+      },
+      {
+        "word": "'s",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "dep": "ROOT",
+        "head": "'s"
+      },
+      {
+        "word": "where",
+        "lemma": "where",
+        "pos": "SCONJ",
+        "tag": "WRB",
+        "dep": "advmod",
+        "head": "begins"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "journey"
+      },
+      {
+        "word": "journey",
+        "lemma": "journey",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "begins"
+      },
+      {
+        "word": "begins",
+        "lemma": "begin",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "ccomp",
+        "head": "'s"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "'s"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "The",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "voice"
+      },
+      {
+        "word": "voice",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "voice"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "voice"
+      },
+      {
+        "word": "The",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "words"
+      },
+      {
+        "word": "words",
+        "lemma": "word",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "ROOT",
+        "head": "words"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "words"
+      },
+      {
+        "word": "The",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "visuals"
+      },
+      {
+        "word": "visuals",
+        "lemma": "visual",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "ROOT",
+        "head": "visuals"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "visuals"
+      },
+      {
+        "word": "The",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "editing"
+      },
+      {
+        "word": "editing",
+        "lemma": "editing",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "editing"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "editing"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "So",
+        "lemma": "so",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "many"
+      },
+      {
+        "word": "many",
+        "lemma": "many",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "tools"
+      },
+      {
+        "word": "tools",
+        "lemma": "tool",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "ROOT",
+        "head": "tools"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "tools"
+      },
+      {
+        "word": "So",
+        "lemma": "so",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "steps"
+      },
+      {
+        "word": "many",
+        "lemma": "many",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "steps"
+      },
+      {
+        "word": "steps",
+        "lemma": "step",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "ROOT",
+        "head": "steps"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "steps"
+      },
+      {
+        "word": "So",
+        "lemma": "so",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "much"
+      },
+      {
+        "word": "much",
+        "lemma": "much",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "time"
+      },
+      {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "time"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "time"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "What",
+        "lemma": "what",
+        "pos": "PRON",
+        "tag": "WP",
+        "dep": "dep",
+        "head": "bring"
+      },
+      {
+        "word": "if",
+        "lemma": "if",
+        "pos": "SCONJ",
+        "tag": "IN",
+        "dep": "mark",
+        "head": "bring"
+      },
+      {
+        "word": "you",
+        "lemma": "you",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "bring"
+      },
+      {
+        "word": "could",
+        "lemma": "could",
+        "pos": "AUX",
+        "tag": "MD",
+        "dep": "aux",
+        "head": "bring"
+      },
+      {
+        "word": "bring",
+        "lemma": "bring",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "bring"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "dobj",
+        "head": "bring"
+      },
+      {
+        "word": "all",
+        "lemma": "all",
+        "pos": "PRON",
+        "tag": "DT",
+        "dep": "appos",
+        "head": "it"
+      },
+      {
+        "word": "together",
+        "lemma": "together",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "bring"
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "bring"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "?"
+      },
+      {
+        "word": "Welcome",
+        "lemma": "welcome",
+        "pos": "VERB",
+        "tag": "VBP",
+        "dep": "dobj",
+        "head": "bring"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "Welcome"
+      },
+      {
+        "word": "ORYN",
+        "lemma": "ORYN",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Engine"
+      },
+      {
+        "word": "Engine",
+        "lemma": "Engine",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "pobj",
+        "head": "to"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "bring"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "generation"
+      },
+      {
+        "word": "new",
+        "lemma": "new",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "generation"
+      },
+      {
+        "word": "generation",
+        "lemma": "generation",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "Start"
+      },
+      {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "generation"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "npadvmod",
+        "head": "powered"
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH",
+        "dep": "punct",
+        "head": "powered"
+      },
+      {
+        "word": "powered",
+        "lemma": "power",
+        "pos": "VERB",
+        "tag": "VBN",
+        "dep": "amod",
+        "head": "technology"
+      },
+      {
+        "word": "creative",
+        "lemma": "creative",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "technology"
+      },
+      {
+        "word": "technology",
+        "lemma": "technology",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "of"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "technology"
+      },
+      {
+        "word": "built",
+        "lemma": "build",
+        "pos": "VERB",
+        "tag": "VBN",
+        "dep": "acl",
+        "head": "technology"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO",
+        "dep": "aux",
+        "head": "turn"
+      },
+      {
+        "word": "turn",
+        "lemma": "turn",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "advcl",
+        "head": "built"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "ideas"
+      },
+      {
+        "word": "ideas",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "dobj",
+        "head": "turn"
+      },
+      {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "turn"
+      },
+      {
+        "word": "reality",
+        "lemma": "reality",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "into"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "generation"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Start",
+        "lemma": "start",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "Start"
+      },
+      {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "Start"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "voice"
+      },
+      {
+        "word": "voice",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "with"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Start"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "With",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "create"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Cloning"
+      },
+      {
+        "word": "Voice",
+        "lemma": "Voice",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Cloning"
+      },
+      {
+        "word": "Cloning",
+        "lemma": "Cloning",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "pobj",
+        "head": "With"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "create"
+      },
+      {
+        "word": "create",
+        "lemma": "create",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "create"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "voice"
+      },
+      {
+        "word": "digital",
+        "lemma": "digital",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "voice"
+      },
+      {
+        "word": "voice",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "create"
+      },
+      {
+        "word": "that",
+        "lemma": "that",
+        "pos": "PRON",
+        "tag": "WDT",
+        "dep": "nsubj",
+        "head": "sounds"
+      },
+      {
+        "word": "sounds",
+        "lemma": "sound",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "relcl",
+        "head": "voice"
+      },
+      {
+        "word": "like",
+        "lemma": "like",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "sounds"
+      },
+      {
+        "word": "you",
+        "lemma": "you",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "pobj",
+        "head": "like"
+      },
+      {
+        "word": "\u2014",
+        "lemma": "\u2014",
+        "pos": "PUNCT",
+        "tag": ":",
+        "dep": "punct",
+        "head": "sounds"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "sounds"
+      },
+      {
+        "word": "make",
+        "lemma": "make",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "sounds"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "voice"
+      },
+      {
+        "word": "voice",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "part"
+      },
+      {
+        "word": "part",
+        "lemma": "part",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ccomp",
+        "head": "make"
+      },
+      {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "part"
+      },
+      {
+        "word": "every",
+        "lemma": "every",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "of"
+      },
+      {
+        "word": "you",
+        "lemma": "you",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "tell"
+      },
+      {
+        "word": "tell",
+        "lemma": "tell",
+        "pos": "VERB",
+        "tag": "VBP",
+        "dep": "relcl",
+        "head": "story"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "create"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "explore"
+      },
+      {
+        "word": "explore",
+        "lemma": "explore",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "explore"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "world"
+      },
+      {
+        "word": "world",
+        "lemma": "world",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "explore"
+      },
+      {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "world"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "voices"
+      },
+      {
+        "word": "voices",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "pobj",
+        "head": "of"
+      },
+      {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "voices"
+      },
+      {
+        "word": "Text",
+        "lemma": "text",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "with"
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH",
+        "dep": "punct",
+        "head": "Text"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "Text"
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH",
+        "dep": "punct",
+        "head": "to"
+      },
+      {
+        "word": "Speech",
+        "lemma": "Speech",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "pobj",
+        "head": "to"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "explore"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "explore"
+      },
+      {
+        "word": "give",
+        "lemma": "give",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "explore"
+      },
+      {
+        "word": "every",
+        "lemma": "every",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "idea"
+      },
+      {
+        "word": "idea",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "give"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "voice"
+      },
+      {
+        "word": "voice",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "give"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "deserves"
+      },
+      {
+        "word": "deserves",
+        "lemma": "deserve",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "relcl",
+        "head": "voice"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "explore"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Want",
+        "lemma": "want",
+        "pos": "VERB",
+        "tag": "VBP",
+        "dep": "ROOT",
+        "head": "Want"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO",
+        "dep": "aux",
+        "head": "make"
+      },
+      {
+        "word": "make",
+        "lemma": "make",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "xcomp",
+        "head": "Want"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "own"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "own"
+      },
+      {
+        "word": "own",
+        "lemma": "own",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "ccomp",
+        "head": "make"
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Want"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "?"
+      },
+      {
+        "word": "With",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "shape"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "Editor"
+      },
+      {
+        "word": "ORYN",
+        "lemma": "ORYN",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Editor"
+      },
+      {
+        "word": "Voice",
+        "lemma": "Voice",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Editor"
+      },
+      {
+        "word": "Editor",
+        "lemma": "Editor",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "pobj",
+        "head": "With"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "Editor"
+      },
+      {
+        "word": "shape",
+        "lemma": "shape",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "shape"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "audio"
+      },
+      {
+        "word": "audio",
+        "lemma": "audio",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "shape"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "shape"
+      },
+      {
+        "word": "refine",
+        "lemma": "refine",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "shape"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "sound"
+      },
+      {
+        "word": "sound",
+        "lemma": "sound",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "refine"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "refine"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "refine"
+      },
+      {
+        "word": "bring",
+        "lemma": "bring",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "refine"
+      },
+      {
+        "word": "every",
+        "lemma": "every",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "word"
+      },
+      {
+        "word": "word",
+        "lemma": "word",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "bring"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "dative",
+        "head": "bring"
+      },
+      {
+        "word": "life",
+        "lemma": "life",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "to"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "shape"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "But",
+        "lemma": "but",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "stop"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "story"
+      },
+      {
+        "word": "great",
+        "lemma": "great",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "stop"
+      },
+      {
+        "word": "does",
+        "lemma": "do",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "dep": "aux",
+        "head": "stop"
+      },
+      {
+        "word": "n't",
+        "lemma": "not",
+        "pos": "PART",
+        "tag": "RB",
+        "dep": "neg",
+        "head": "stop"
+      },
+      {
+        "word": "stop",
+        "lemma": "stop",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "stop"
+      },
+      {
+        "word": "at",
+        "lemma": "at",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "stop"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "voice"
+      },
+      {
+        "word": "voice",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "at"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "stop"
+      },
+      {
+        "word": "It",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "needs"
+      },
+      {
+        "word": "needs",
+        "lemma": "need",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "ROOT",
+        "head": "needs"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "words"
+      },
+      {
+        "word": "right",
+        "lemma": "right",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "words"
+      },
+      {
+        "word": "words",
+        "lemma": "word",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "dobj",
+        "head": "needs"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "needs"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "With",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "transform"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Writing"
+      },
+      {
+        "word": "Caption",
+        "lemma": "Caption",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Writing"
+      },
+      {
+        "word": "Writing",
+        "lemma": "Writing",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "pobj",
+        "head": "With"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "transform"
+      },
+      {
+        "word": "transform",
+        "lemma": "transform",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "transform"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "thoughts"
+      },
+      {
+        "word": "thoughts",
+        "lemma": "thought",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "dobj",
+        "head": "transform"
+      },
+      {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "transform"
+      },
+      {
+        "word": "captions",
+        "lemma": "caption",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "pobj",
+        "head": "into"
+      },
+      {
+        "word": "that",
+        "lemma": "that",
+        "pos": "PRON",
+        "tag": "WDT",
+        "dep": "nsubj",
+        "head": "connect"
+      },
+      {
+        "word": "connect",
+        "lemma": "connect",
+        "pos": "VERB",
+        "tag": "VBP",
+        "dep": "relcl",
+        "head": "captions"
+      },
+      {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "connect"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "audience"
+      },
+      {
+        "word": "audience",
+        "lemma": "audience",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "with"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "transform"
+      },
+      {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "transform"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "language"
+      },
+      {
+        "word": "language",
+        "lemma": "language",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "in"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "language"
+      },
+      {
+        "word": "style",
+        "lemma": "style",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "conj",
+        "head": "language"
+      },
+      {
+        "word": "that",
+        "lemma": "that",
+        "pos": "PRON",
+        "tag": "WDT",
+        "dep": "nsubj",
+        "head": "fits"
+      },
+      {
+        "word": "fits",
+        "lemma": "fit",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "relcl",
+        "head": "language"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "fits"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "transform"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "And",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "started"
+      },
+      {
+        "word": "we",
+        "lemma": "we",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubjpass",
+        "head": "started"
+      },
+      {
+        "word": "'re",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "dep": "aux",
+        "head": "started"
+      },
+      {
+        "word": "just",
+        "lemma": "just",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "started"
+      },
+      {
+        "word": "getting",
+        "lemma": "getting",
+        "pos": "AUX",
+        "tag": "VBG",
+        "dep": "auxpass",
+        "head": "started"
+      },
+      {
+        "word": "started",
+        "lemma": "start",
+        "pos": "VERB",
+        "tag": "VBN",
+        "dep": "ROOT",
+        "head": "started"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "started"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Imagine",
+        "lemma": "imagine",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "Imagine"
+      },
+      {
+        "word": "writing",
+        "lemma": "write",
+        "pos": "VERB",
+        "tag": "VBG",
+        "dep": "xcomp",
+        "head": "Imagine"
+      },
+      {
+        "word": "one",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD",
+        "dep": "nummod",
+        "head": "script"
+      },
+      {
+        "word": "script",
+        "lemma": "script",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "dobj",
+        "head": "writing"
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "pos": "PUNCT",
+        "tag": ":",
+        "dep": "punct",
+        "head": "writing"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "writing"
+      },
+      {
+        "word": "watching",
+        "lemma": "watch",
+        "pos": "VERB",
+        "tag": "VBG",
+        "dep": "conj",
+        "head": "writing"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "transform"
+      },
+      {
+        "word": "transform",
+        "lemma": "transform",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ccomp",
+        "head": "watching"
+      },
+      {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "transform"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "story"
+      },
+      {
+        "word": "complete",
+        "lemma": "complete",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "story"
+      },
+      {
+        "word": "visual",
+        "lemma": "visual",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "into"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Imagine"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "With",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "become"
+      },
+      {
+        "word": "our",
+        "lemma": "our",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "Storyboard"
+      },
+      {
+        "word": "upcoming",
+        "lemma": "upcoming",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "Text"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Text"
+      },
+      {
+        "word": "Text",
+        "lemma": "text",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "compound",
+        "head": "Storyboard"
+      },
+      {
+        "word": "Storyboard",
+        "lemma": "storyboard",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "pobj",
+        "head": "With"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "become"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "script"
+      },
+      {
+        "word": "script",
+        "lemma": "script",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "become"
+      },
+      {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD",
+        "dep": "aux",
+        "head": "become"
+      },
+      {
+        "word": "become",
+        "lemma": "become",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "become"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "blueprint"
+      },
+      {
+        "word": "scene",
+        "lemma": "scene",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nmod",
+        "head": "blueprint"
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH",
+        "dep": "punct",
+        "head": "scene"
+      },
+      {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "scene"
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH",
+        "dep": "punct",
+        "head": "by"
+      },
+      {
+        "word": "scene",
+        "lemma": "scene",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "by"
+      },
+      {
+        "word": "creative",
+        "lemma": "creative",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "blueprint"
+      },
+      {
+        "word": "blueprint",
+        "lemma": "blueprint",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "attr",
+        "head": "become"
+      },
+      {
+        "word": "\u2014",
+        "lemma": "\u2014",
+        "pos": "PUNCT",
+        "tag": ":",
+        "dep": "punct",
+        "head": "become"
+      },
+      {
+        "word": "helping",
+        "lemma": "help",
+        "pos": "VERB",
+        "tag": "VBG",
+        "dep": "advcl",
+        "head": "become"
+      },
+      {
+        "word": "you",
+        "lemma": "you",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "discover"
+      },
+      {
+        "word": "discover",
+        "lemma": "discover",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ccomp",
+        "head": "helping"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "discover"
+      },
+      {
+        "word": "generate",
+        "lemma": "generate",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "discover"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "images"
+      },
+      {
+        "word": "images",
+        "lemma": "image",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "dobj",
+        "head": "generate"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "needs"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "compound",
+        "head": "needs"
+      },
+      {
+        "word": "needs",
+        "lemma": "need",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "dep": "relcl",
+        "head": "images"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "become"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "And",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "planned"
+      },
+      {
+        "word": "soon",
+        "lemma": "soon",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "planned"
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "pos": "PUNCT",
+        "tag": ":",
+        "dep": "punct",
+        "head": "planned"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubjpass",
+        "head": "planned"
+      },
+      {
+        "word": "wo",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD",
+        "dep": "aux",
+        "head": "planned"
+      },
+      {
+        "word": "n't",
+        "lemma": "not",
+        "pos": "PART",
+        "tag": "RB",
+        "dep": "neg",
+        "head": "planned"
+      },
+      {
+        "word": "just",
+        "lemma": "just",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "planned"
+      },
+      {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB",
+        "dep": "auxpass",
+        "head": "planned"
+      },
+      {
+        "word": "planned",
+        "lemma": "plan",
+        "pos": "VERB",
+        "tag": "VBN",
+        "dep": "ROOT",
+        "head": "planned"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "planned"
+      },
+      {
+        "word": "It",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "come"
+      },
+      {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD",
+        "dep": "aux",
+        "head": "come"
+      },
+      {
+        "word": "come",
+        "lemma": "come",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "come"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "come"
+      },
+      {
+        "word": "life",
+        "lemma": "life",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "to"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "come"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "With",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "bring"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "Editor"
+      },
+      {
+        "word": "upcoming",
+        "lemma": "upcoming",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "Editor"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Editor"
+      },
+      {
+        "word": "Video",
+        "lemma": "Video",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Editor"
+      },
+      {
+        "word": "Editor",
+        "lemma": "Editor",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "pobj",
+        "head": "With"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "bring"
+      },
+      {
+        "word": "bring",
+        "lemma": "bring",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "bring"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "voices"
+      },
+      {
+        "word": "voices",
+        "lemma": "voice",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "dobj",
+        "head": "bring"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "voices"
+      },
+      {
+        "word": "captions",
+        "lemma": "caption",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "conj",
+        "head": "voices"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "captions"
+      },
+      {
+        "word": "images",
+        "lemma": "image",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "conj",
+        "head": "captions"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ",",
+        "dep": "punct",
+        "head": "images"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "images"
+      },
+      {
+        "word": "videos",
+        "lemma": "video",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "conj",
+        "head": "images"
+      },
+      {
+        "word": "together",
+        "lemma": "together",
+        "pos": "ADV",
+        "tag": "RB",
+        "dep": "advmod",
+        "head": "videos"
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "dep": "cc",
+        "head": "bring"
+      },
+      {
+        "word": "turn",
+        "lemma": "turn",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "conj",
+        "head": "bring"
+      },
+      {
+        "word": "your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "ideas"
+      },
+      {
+        "word": "ideas",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "dobj",
+        "head": "turn"
+      },
+      {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "turn"
+      },
+      {
+        "word": "complete",
+        "lemma": "complete",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "content"
+      },
+      {
+        "word": "content",
+        "lemma": "content",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "into"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "bring"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "One",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD",
+        "dep": "nummod",
+        "head": "idea"
+      },
+      {
+        "word": "idea",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "idea"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "idea"
+      },
+      {
+        "word": "One",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD",
+        "dep": "nummod",
+        "head": "workspace"
+      },
+      {
+        "word": "creative",
+        "lemma": "creative",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "workspace"
+      },
+      {
+        "word": "workspace",
+        "lemma": "workspace",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "ROOT",
+        "head": "workspace"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "workspace"
+      },
+      {
+        "word": "Endless",
+        "lemma": "endless",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "possibilities"
+      },
+      {
+        "word": "possibilities",
+        "lemma": "possibility",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "ROOT",
+        "head": "possibilities"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "possibilities"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "This",
+        "lemma": "this",
+        "pos": "PRON",
+        "tag": "DT",
+        "dep": "nsubj",
+        "head": "is"
+      },
+      {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "dep": "ROOT",
+        "head": "is"
+      },
+      {
+        "word": "more",
+        "lemma": "more",
+        "pos": "ADJ",
+        "tag": "JJR",
+        "dep": "acomp",
+        "head": "is"
+      },
+      {
+        "word": "than",
+        "lemma": "than",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "more"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "collection"
+      },
+      {
+        "word": "collection",
+        "lemma": "collection",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "than"
+      },
+      {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "collection"
+      },
+      {
+        "word": "AI",
+        "lemma": "AI",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "tools"
+      },
+      {
+        "word": "tools",
+        "lemma": "tool",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "dep": "pobj",
+        "head": "of"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "is"
+      },
+      {
+        "word": "It",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "nsubj",
+        "head": "'s"
+      },
+      {
+        "word": "'s",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "dep": "ROOT",
+        "head": "'s"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "way"
+      },
+      {
+        "word": "new",
+        "lemma": "new",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "way"
+      },
+      {
+        "word": "way",
+        "lemma": "way",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "attr",
+        "head": "'s"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO",
+        "dep": "aux",
+        "head": "create"
+      },
+      {
+        "word": "create",
+        "lemma": "create",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "relcl",
+        "head": "way"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "'s"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "From",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "ROOT",
+        "head": "From"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "thought"
+      },
+      {
+        "word": "first",
+        "lemma": "first",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "thought"
+      },
+      {
+        "word": "thought",
+        "lemma": "thought",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "From"
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "pos": "PUNCT",
+        "tag": ":",
+        "dep": "punct",
+        "head": "From"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "From"
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "dep": "det",
+        "head": "frame"
+      },
+      {
+        "word": "final",
+        "lemma": "final",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "dep": "amod",
+        "head": "frame"
+      },
+      {
+        "word": "frame",
+        "lemma": "frame",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "to"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "From"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "ORYN",
+        "lemma": "ORYN",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "compound",
+        "head": "Engine"
+      },
+      {
+        "word": "Engine",
+        "lemma": "Engine",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "dep": "ROOT",
+        "head": "Engine"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Engine"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Imagine",
+        "lemma": "imagine",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "Imagine"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "dobj",
+        "head": "Imagine"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Imagine"
+      },
+      {
+        "word": "Create",
+        "lemma": "create",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "Create"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "dobj",
+        "head": "Create"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Create"
+      },
+      {
+        "word": "Bring",
+        "lemma": "bring",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "Bring"
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP",
+        "dep": "dobj",
+        "head": "Bring"
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "dep": "prep",
+        "head": "Bring"
+      },
+      {
+        "word": "life",
+        "lemma": "life",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "pobj",
+        "head": "to"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Bring"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Sign",
+        "lemma": "sign",
+        "pos": "VERB",
+        "tag": "VB",
+        "dep": "ROOT",
+        "head": "Sign"
+      },
+      {
+        "word": "up",
+        "lemma": "up",
+        "pos": "ADP",
+        "tag": "RP",
+        "dep": "prt",
+        "head": "Sign"
+      },
+      {
+        "word": "today",
+        "lemma": "today",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "npadvmod",
+        "head": "Sign"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "Sign"
+      },
+      {
+        "word": "\n\n",
+        "lemma": "\n\n",
+        "pos": "SPACE",
+        "tag": "_SP",
+        "dep": "dep",
+        "head": "."
+      },
+      {
+        "word": "Your",
+        "lemma": "your",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "dep": "poss",
+        "head": "story"
+      },
+      {
+        "word": "story",
+        "lemma": "story",
+        "pos": "NOUN",
+        "tag": "NN",
+        "dep": "nsubj",
+        "head": "waiting"
+      },
+      {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "dep": "aux",
+        "head": "waiting"
+      },
+      {
+        "word": "waiting",
+        "lemma": "wait",
+        "pos": "VERB",
+        "tag": "VBG",
+        "dep": "ROOT",
+        "head": "waiting"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "dep": "punct",
+        "head": "waiting"
+      }
+    ],
+    "semantics": {
+      "entities": [
+        {
+          "text": "ORYN Engine",
+          "label": "ORG"
+        },
+        {
+          "text": "AI",
+          "label": "GPE"
+        },
+        {
+          "text": "AI Voice Cloning",
+          "label": "ORG"
+        },
+        {
+          "text": "AI",
+          "label": "GPE"
+        },
+        {
+          "text": "AI Text Storyboard",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "AI Video",
+          "label": "ORG"
+        },
+        {
+          "text": "One",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "One",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "AI",
+          "label": "GPE"
+        },
+        {
+          "text": "first",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "ORYN Engine",
+          "label": "ORG"
+        },
+        {
+          "text": "today",
+          "label": "DATE"
+        }
+      ],
+      "keywords": [
+        "great",
+        "creation",
+        "starts",
+        "small",
+        "thought",
+        "idea",
+        "story",
+        "waiting",
+        "told",
+        "turning",
+        "idea",
+        "real",
+        "journey",
+        "begins",
+        "voice",
+        "words",
+        "visuals",
+        "editing",
+        "many",
+        "tools",
+        "many",
+        "steps",
+        "much",
+        "time",
+        "bring",
+        "Welcome",
+        "new",
+        "generation",
+        "powered",
+        "creative",
+        "technology",
+        "built",
+        "turn",
+        "ideas",
+        "reality",
+        "Start",
+        "voice",
+        "create",
+        "digital",
+        "voice",
+        "sounds",
+        "make",
+        "voice",
+        "part",
+        "story",
+        "tell",
+        "explore",
+        "world",
+        "voices",
+        "Text",
+        "give",
+        "idea",
+        "voice",
+        "deserves",
+        "Want",
+        "make",
+        "own",
+        "shape",
+        "audio",
+        "refine",
+        "sound",
+        "bring",
+        "word",
+        "life",
+        "great",
+        "story",
+        "stop",
+        "voice",
+        "needs",
+        "right",
+        "words",
+        "transform",
+        "thoughts",
+        "captions",
+        "connect",
+        "audience",
+        "language",
+        "style",
+        "fits",
+        "story",
+        "started",
+        "Imagine",
+        "writing",
+        "script",
+        "watching",
+        "transform",
+        "complete",
+        "visual",
+        "story",
+        "upcoming",
+        "Text",
+        "script",
+        "become",
+        "scene",
+        "scene",
+        "creative",
+        "blueprint",
+        "helping",
+        "discover",
+        "generate",
+        "images",
+        "story",
+        "needs",
+        "story",
+        "planned",
+        "come",
+        "life",
+        "upcoming",
+        "bring",
+        "voices",
+        "captions",
+        "images",
+        "videos",
+        "turn",
+        "ideas",
+        "complete",
+        "content",
+        "idea",
+        "creative",
+        "workspace",
+        "Endless",
+        "possibilities",
+        "more",
+        "collection",
+        "tools",
+        "new",
+        "way",
+        "create",
+        "first",
+        "thought",
+        "final",
+        "frame",
+        "Imagine",
+        "Create",
+        "Bring",
+        "life",
+        "Sign",
+        "today",
+        "story",
+        "waiting"
+      ]
+    },
+    "intent": {
+      "intent": "statement"
+    },
+    "emotion": {
+      "emotion": "happy",
+      "confidence": 0.5,
+      "scores": {
+        "happy": 1.9,
+        "surprise": 1.9
+      }
+    },
+    "prosody": {
+      "speed": 0.9450000000000001,
+      "pause": 0.3,
+      "pitch": 1.05,
+      "energy_scale": 1.1
+    }
+  },
+  "language": "en"
+}
